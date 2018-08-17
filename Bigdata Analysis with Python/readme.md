@@ -1,4 +1,4 @@
-__SNU Big Data Academy 2018_Semester 01 (20180618 ~ 20180727)__
+# SNU Big Data Academy 2018_Semester 01 (20180618 ~ 20180727)
 
 
 1.Bigdata Analysis with Python
